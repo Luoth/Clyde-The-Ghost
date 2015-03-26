@@ -1,1 +1,0 @@
-    switchGameState(GAME_STATE_INIT);
