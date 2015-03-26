@@ -1,0 +1,17 @@
+Because this game was made to be played on an arcade, the button layout for keyboard isn't made clear in the game.
+Thus, here are the buttons:
+
+Player 1 (larry)
+Orange button player1: E
+Movement Up: W
+Movement Right: D
+Movement Left: A
+Movement Down: S
+
+Player 2 (ghost/clyde)
+Orange button: L
+Movement Up: up arrow
+Movement Right: right arrow
+Movement Left: left arrow
+Movement Down: down arrow
+Shooting: 0 on num pad
