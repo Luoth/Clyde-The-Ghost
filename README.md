@@ -18,9 +18,13 @@ Larry wins if the time runs out.
 Clyde wins if he catches Larry.
 
 Team Members:
+
 Jaimy Vaes - Artist
+
 Romano Louwers - Artist
+
 Erwin Geboers - Developer
+
 Dean van den Boom - Developer
 
 What went right?:
